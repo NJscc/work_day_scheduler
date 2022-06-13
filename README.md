@@ -2,20 +2,23 @@
 
 ## Description
 
+This application displays the current date and time at the top of the page,
+
+and lets the user store text notes which will be saved even when the window is closed.
+
+## Collaborators
+
+Nicholas Jones
+
+## Main Technologies
+
+Javascript, moment.js
+
 ## Link
+
+https://njscc.github.io/work_day_scheduler/
 
 ## Screenshot
 
-Title of app
+![Sample of image of score screen with elements added.](./assets/images/image.png)
 
-	* Live link to deployed app
-
-	* List of technologies used
-
-	* 1-2 sentences explaining what the app is
-
-	* 2-3 Screenshots / gifs of the app
-
-	* License (usually MIT)
-	
-	* Contact information for you and any collaborators
